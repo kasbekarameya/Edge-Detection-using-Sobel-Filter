@@ -5,16 +5,18 @@ The main goal of this project is to develop a strong understanding regarding the
 
 ## What is Edge Detection?
 Edge Detection can be described as an Image Processing technique used to detect fine boundaries in an image. This technique is required to distinguish different objects in an image. Key Point detection performs its operation by applying some kind of an image filter that allows the edges in the image to be extracted.
-In this project we have used Sobel Filter for Edge Detection. It has following filter coordinates for X and Y axis respectively,
-<center>
-         -1	 0	1
-SobelX = -2	 0	2
-         -1	 0	1
+In this project we have used Sobel Filter for Edge Detection. It has following filter coordinates for X and Y axis 
 
-         -1	-2 -1
-SobelY =  0  0	0
-          1	 2	1
-</center>
+SobelX =
+-1| 0| 1
+-2| 0| 2
+-1| 0| 1
+
+SobelY =
+-1|-2 |-1
+ 0| 0 | 0
+ 1| 2 | 1
+
 
 Input image:
 <p align="center">

@@ -19,11 +19,11 @@ In this project we have used Sobel Filter for Edge Detection. It has following f
 
 <p align="center">
 <img src="Images/2.png"></br>
-**Edges along X direction**
+Edges along X direction
 </p>
 
 <p align="center">
 <img src="Images/3.png"></br>
-**Edges along Y direction**
+Edges along Y direction
 </p>
 

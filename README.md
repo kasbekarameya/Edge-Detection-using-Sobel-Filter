@@ -10,20 +10,20 @@ In this project we have used Sobel Filter for Edge Detection. It has following f
 <img src="Images/0.png">
 </p>
 
-Input image:
+### Input image:
 <p align="center">
 <img src="Images/1.png">
 </p>
 
-Output images:
+### Output images:
 
 <p align="center">
-<img src="Images/2.png">
-Edges along X direction
+<img src="Images/2.png"></br>
+**Edges along X direction**
 </p>
 
 <p align="center">
-<img src="Images/3.png">
-Edges along Y direction
+<img src="Images/3.png"></br>
+**Edges along Y direction**
 </p>
 
